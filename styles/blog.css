@@ -4,7 +4,7 @@
 }
 
 .photo{
-  width: 150px;
+  width: 300px;
 }
 
 
@@ -14,15 +14,15 @@
   height: 100vh;
   border: 5px solid gray;
   align-items: center;
-  background-color: pink;
+  background-color: white;
   padding: 100px;
 
 }
 .banner-text{
-  width: 50%;
+  width: 40%;
 }
 .title {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bold;
 }
 
