@@ -36,3 +36,13 @@ margin-bottom: 15px;
   border: none;
   color: white;
 }
+
+.primary{
+  border: none;
+  text-align: center;
+  padding-top: 50px;
+}
+.details {
+  font-size: 10px;
+  text-align: center;
+}
