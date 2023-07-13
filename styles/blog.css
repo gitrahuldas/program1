@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.photo{
+  width: 150px;
+}
+
+
+.banner-container {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  border: 5px solid gray;
+  align-items: center;
+  background-color: pink;
+  padding: 100px;
+
+}
+.banner-text{
+  width: 50%;
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.description {
+font-size: 15px;
+margin-top: 10px;
+margin-bottom: 15px;
+}
