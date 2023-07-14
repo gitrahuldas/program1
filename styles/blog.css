@@ -3,7 +3,7 @@
   padding: 0px;
 }
 
-.photo{
+.photo {
   width: 300px;
 }
 
@@ -11,18 +11,18 @@
   display: flex;
   justify-content: space-around;
   height: 100vh;
-  border: 5px solid gray;
   align-items: center;
   background-color: white;
   padding: 100px;
 
 }
-.banner-text{
+.banner-text {
   width: 40%;
 }
 .title {
   font-size: 50px;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .description {
@@ -37,12 +37,47 @@ margin-bottom: 15px;
   color: white;
 }
 
-.primary{
+.primary {
   border: none;
   text-align: center;
-  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .details {
-  font-size: 10px;
+  font-size: 14px;
   text-align: center;
+  padding-bottom: 50px
+}
+
+
+.image-tree{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  border-radius: 10%;
+  padding-bottom: 150px;
+}
+
+.flower1 {
+  width: 215px;
+  background-color: pink;
+}
+
+.flower2 {
+  width: 300px;
+  background-color:aquamarine;
+}
+
+.flower3 {
+  width: 200px;
+  background-color:lightgray;
+}
+
+.support-image{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: lightgrey;
+  margin: 0px 100px 100px; 
 }
