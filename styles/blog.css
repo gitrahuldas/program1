@@ -51,7 +51,7 @@ margin-bottom: 15px;
 }
 
 
-.image-tree{
+.image-tree {
   display: flex;
   text-align: center;
   justify-content: space-around;
@@ -74,7 +74,7 @@ margin-bottom: 15px;
   background-color:lightgray;
 }
 
-.support-image{
+.support-image {
   display: flex;
   justify-content: space-around;
   text-align: center;
