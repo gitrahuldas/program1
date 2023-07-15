@@ -129,3 +129,34 @@ margin-bottom: 15px;
   justify-content: space-around;
   
 }
+.unique {
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 25%; 
+}
+
+.one {
+  
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.two {
+ font-size: 15px;
+ margin-top: 15px;
+ margin-bottom: 32px;
+}
+.view {
+  padding: 10px 20px 10px 
+}
+
+.box {
+  height: 450px;
+  width: 1800px;
+  
+}
+.text-changing{
+  color: red;
+}
