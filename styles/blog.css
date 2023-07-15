@@ -94,8 +94,38 @@ margin-bottom: 15px;
 }
 
 .headline {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
 }
+.text-change{
+  color: red;
+}
+.descrip {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.viewspot{
+  width: 200px;
+}
 
+.ins {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10%;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.article {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 70px;
+  margin-top: 10px;
+}
+.for-image{
+  display: flex;
+  justify-content: space-around;
+  
+}
